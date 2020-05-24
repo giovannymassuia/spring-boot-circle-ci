@@ -10,9 +10,6 @@ class SpringBootCircleCiApplicationTests {
 
     @Test
     void contextLoads() {
-
-        fail("Testing fail badge circle ci");
-
     }
 
 }
